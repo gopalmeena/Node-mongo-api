@@ -8,3 +8,5 @@ Simple API(GET and POST) implementation using nodejs, express and mongodb for st
 3.Now run your app using "node server.js"
 
 4. For GET and POST request ,use "http://127.0.0.1:3000/api/student/" . For POST request send data in JSON format . FOr example {"name":"person_name","age":"person_age","address":"person_address"} 
+
+Adding new line for checking
